@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeniegeeha.autoreject.org/sitemap.xml
